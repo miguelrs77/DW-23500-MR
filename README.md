@@ -2,4 +2,4 @@
 
 Mi primer repositorio
 
-i love:, pizza , fernet y talleres
+i love: rugby , pizza , fernet y talleres
